@@ -83,15 +83,10 @@ I am passionate about teaching, scientific communication, and the integration of
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Jorge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JorgeCortes-M&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeCortes-M&layout=compact&theme=default&hide_border=true)
-
-</div>
+## 🔭 Currently Working On
+ 
+- Designing sampling strategies and genomic analyses for *Gambusia holbrooki* across Chilean, European, and Australian Mediterranean river systems, investigating consistent directional selection in an invasive species
+- Population genomic analyses of *Eschscholzia californica* to detect signatures of local adaptation.
 
 ---
 
